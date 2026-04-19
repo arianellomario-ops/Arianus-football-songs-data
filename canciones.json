@@ -1,4 +1,4 @@
-final List<Map<String, dynamic>> canciones = [
+[
   {
     "titulo": {
       "es": "Soy Hincha de la Selección",
@@ -34,5 +34,5 @@ final List<Map<String, dynamic>> canciones = [
       "ja": "行け行けアルゼンチン..."
     },
     "url": "https://www.youtube.com/shorts/eV4NaqyItxA"
-  },
-];
+  }
+]
