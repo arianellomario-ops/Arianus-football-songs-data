@@ -1,0 +1,38 @@
+final List<Map<String, dynamic>> canciones = [
+  {
+    "titulo": {
+      "es": "Soy Hincha de la Selección",
+      "en": "I'm a Fan of the National Team",
+      "pt": "Sou fã da seleção",
+      "zh": "我是国家队的球迷",
+      "ja": "私は代表チームのファンです"
+    },
+    "pais": "Argentina",
+    "letra": {
+      "es": "Soy hincha...",
+      "en": "I'm a fan...",
+      "pt": "Sou fã...",
+      "zh": "我是球迷...",
+      "ja": "私はファンです..."
+    },
+    "url": "https://www.youtube.com/shorts/rMzA7esUh1A"
+  },
+  {
+    "titulo": {
+      "es": "Vamos, Vamos, Argentina",
+      "en": "Let's Go Argentina",
+      "pt": "Vamos Argentina",
+      "zh": "加油阿根廷",
+      "ja": "行け行けアルゼンチン"
+    },
+    "pais": "Argentina",
+    "letra": {
+      "es": "Vamos vamos Argentina...",
+      "en": "Let's go Argentina...",
+      "pt": "Vamos Argentina...",
+      "zh": "阿根廷加油...",
+      "ja": "行け行けアルゼンチン..."
+    },
+    "url": "https://www.youtube.com/shorts/eV4NaqyItxA"
+  },
+];
