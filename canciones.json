@@ -1,12 +1,29 @@
 [
   {
-	"titulo": {
-	  "es": "La cuarta Estrella",
-	  "en": "The Fourth Star",
-	  "pt": "A quarta estrela",
-	  "zh": "第四颗星",
-	  "ja": "第四の星"
-
+    "titulo": {
+      "es": "Cuando juega Uruguay",
+      "en": "When Uruguay plays",
+      "pt": "Quando o Uruguai joga",
+      "zh": "乌拉圭比赛时",
+      "ja": "ウルグアイが試合をするとき"
+    },
+    "pais": "Uruguay",
+    "letra": {
+      "es": "Como un cielo",
+      "en": "Like a sky",
+      "pt": "Como um céu",
+      "zh": "如同天空",
+      "ja": "空のように"
+    },
+    "url": "https://www.youtube.com/watch?v=EeLhH_deakY"
+  },
+  {
+    "titulo": {
+      "es": "La cuarta Estrella",
+      "en": "The Fourth Star",
+      "pt": "A quarta estrela",
+      "zh": "第四颗星",
+      "ja": "第四の星"
     },
     "pais": "Argentina",
     "letra": {
@@ -36,22 +53,4 @@
     },
     "url": "https://www.youtube.com/shorts/eV4NaqyItxA"
   }
-{
-  "titulo": {
-	"es": "Cuando juega Uruguay",
-	"en": "When Uruguay plays",
-	"pt": "Quando o Uruguai joga",
-	"zh": "乌拉圭比赛时",
-	"ja": "ウルグアイが試合をするとき"
-  },
-  "pais": "Uruguay",
-  "letra": {
-	"es": "Como un cielo",
-	"en": "Like a sky",
-	"pt": "Como um céu",
-	"zh": "如同天空",
-	"ja": "空のように"
-  },
-  "url": "https://www.youtube.com/watch?v=EeLhH_deakY"
-}
 ]
