@@ -1,8 +1,8 @@
 {
   "info": {
-    "date_update": "2026-06-04",
-    "nro": 28.2,
-    "cant": 70,
+    "date_update": "2026-07-13",
+    "nro": 29.0,
+    "cant": 72,
     "nuevaVersion": true,
     "urlPlayStore": "https://github.com/Arianus-tech/Arianus-football-songs-data/blob/main/sitioPorHacer.png",
     "habilitarCualquierFuente": true
@@ -1337,6 +1337,44 @@
   },
   "url": "https://youtu.be/-2Lr9D5Cn7o?si=arMJAJnDwN359VpS",
   "nro": 70
+},
+{
+  "nro": 71,
+  "pais": "Argentina",
+  "titulo": {
+    "es": "Quiero robarle un gol al ladrón",
+    "en": "I Want to Steal a Goal from the Thief",
+    "pt": "Quero roubar um gol do ladrão",
+    "zh": "我想从小偷那里偷一个进球",
+    "ja": "泥棒からゴールを奪いたい"
+},
+  "letra": {
+  "es": "Quiero volver a robarle un gol al ladrón, como el Diego y el Narigón. Y que brille la cuarta estrella en el cielo glorioso de mi Nación. Quiero ganarme 100 años de perdón y con Leo salir campeón.",
+  "en": "I want to steal a goal from the thief again, like Diego and the Big-Nosed One did. And let the fourth star shine in the glorious sky of my nation. I want to earn a hundred years of forgiveness and become champion with Leo.",
+  "pt": "Quero voltar a roubar um gol do ladrão, como Diego e o Narigudo. E que brilhe a quarta estrela no céu glorioso da minha nação. Quero ganhar 100 anos de perdão e ser campeão com o Leo.",
+  "zh": "我想再次从小偷那里偷一个进球，就像迭戈和“长鼻子”那样。让第四颗星在我国家荣耀的天空中闪耀。我想赢得一百年的宽恕，并和里奥一起成为冠军。",
+  "ja": "ディエゴと“鼻の大きい男”のように、もう一度泥棒からゴールを奪いたい。祖国の栄光ある空に4つ目の星が輝きますように。100年の許しを得て、レオと共にチャンピオンになりたい。"
+},
+  "url": "https://youtu.be/lpYomRrf2p8?si=i_HZVIEl5ulhXg4H"
+},
+ {
+  "nro": 72,
+  "pais": "Argentina",
+  "titulo": {
+    "es": "Selección Yo te Sigo (Favaloro Dale fuerza a mis latidos)",
+    "en": "National Team, I Follow You (Favaloro, Give Strength to My Heartbeat)",
+    "pt": "Seleção, Eu Te Sigo (Favaloro, Dá Força ao Meu Batimento)",
+    "zh": "国家队我跟随你（法瓦洛罗，请给我的心跳力量）",
+    "ja": "代表チームよ、ついていく（ファバロロ、心臓の鼓動に力を）"
+},
+"letra": {
+  "es": "Favaloro dale fuerza a mi latido, oh, oh. Que quiero dar la última vuelta con Lio, oh, oh.",
+  "en": "Favaloro, give strength to my heartbeat, oh, oh. I want to take the final lap with Leo, oh, oh.",
+  "pt": "Favaloro, dá força ao meu batimento, oh, oh. Quero dar a volta final com o Léo, oh, oh.",
+  "zh": "法瓦洛罗，请给我的心跳力量，哦，哦。我想和里奥一起完成最后一圈，哦，哦。",
+  "ja": "ファバロロ、僕の鼓動に力を、オーオー。レオと一緒に最後の一周を回りたい、オーオー。"
+},
+  "url": "https://youtu.be/lpYomRrf2p8?si=i_HZVIEl5ulhXg4H"
 }
   ]
 }
